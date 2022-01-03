@@ -1,0 +1,2 @@
+# MyFirstGames
+Random simple games

@@ -1,2 +1,2 @@
 # MyFirstCarGame
-Random simple games
+Simple game from unity tutorial
